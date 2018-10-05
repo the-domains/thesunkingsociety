@@ -1,0 +1,57 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Sun King Society
+layout_spectrum: 0.9854072325397283
+typography_spectrum: 0.8605446736328304
+color:
+  brandStrength: 0.7111525349318981
+  lightness: 0.29148995177820325
+  saturation: 0.7359642421361059
+  rhythmicContrast: 0.47350320196710527
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8437da41-6654-49a9-806e-100389619d62.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8437da41-6654-49a9-806e-100389619d62.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: The Sun King Society
+description: Who will become Sun King?
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c99be9ff-7a39-4253-85b9-192b509c937b.ico
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0ba5a4c-7f36-4926-a54c-4301b3eee87e.png
+url: 'http://thesunkingsociety.com'
+author:
+  name: The Sun King Society
+  url: 'http://thesunkingsociety.com'
+github: true
